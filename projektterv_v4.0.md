@@ -56,7 +56,7 @@ A projekt a következő emberekből áll:
 ### 6.1. Munkakörnyezet
 A projekt a következő munkaállomásokat fogja használni a munka során:
 
-A projekt alatt 6 db PC-t használunk, amelyeken Windows fut. A projektet PHP 7.3.9-es és Javascript-ben fogjuk létrehozni és a fejlesztéséhez a PhpStorm-ot, Sublime-ot illetve Notepad++ fogjuk használni, továbbá az ingyenes Apache webkiszolgálót. Adatbázisnak a MySQL relációs adatbázis-kezelő szoftvert, amit XAMPP alatt fogunk futtatni.
+A projekt alatt 6 db PC-t használunk, amelyeken Windows fut. A projektet Java-ban fogjuk létrehozni és a fejlesztéséhez a IntelliJ IDEA, Eclipse, Sublime-ot illetve Notepad++ fogjuk használni, továbbá az ingyenes Apache webkiszolgálót. Adatbázisnak a MySQL relációs adatbázis-kezelő szoftvert, amit XAMPP alatt fogunk futtatni.
 
 ### 6.2. Rizikómenedzsment
 
@@ -106,7 +106,7 @@ A főbb átadandók és határidők a projekt időtartama alatt a következők:
 |      D1     |       Projektterv és útmutató       |  2019-10-03   |
 |    P1+D2    | UML és adatbázis tervek és bemutató |  2019-10-17   |
 |    P1+D3    |      Prototípus I. és bemutató      |  2019-10-31   |
-|    P2+D4    |      Prototípus Ii. és bemutató     |  2019-11-28   |
+|    P2+D4    |      Prototípus II. és bemutató     |  2019-11-28   |
 
 ## 9. Feladatlista
 Az UniHome teljes körű ingatlan szolgáltatás 2019. szeptember 05-én indult. A következőkben a tervezett feladatok részletes összefoglalása található:
@@ -165,17 +165,72 @@ Erőforrásigény: 3 személynap
 Ennek a feladatnak az a célja, hogy a választott programozási nyelven, elkészítsük a projektünk első prototípusát. A tervek szerint ekkorra meg lesz valósítva az ingatlanok közötti keresés, kapcsolatfelvétel a ingatlankezelőkkel, ingatlankezelői oldalon pedig az ingatlanok hirdetéseinek és híreinek feltevése, és ekkorra meglesz az adatbázis is. Továbbá a grafikus felhasználói felület első prototípusa is. 
 Részfeladatai a következők:
 
-#### 9.3.1. Prototípus
-Felelősök: Korom Richárd, Köles Bálint, Schneider Bence, Géczi Ákos, Simon Péter, Hörömpő László
-Tartam: 7 nap
-Erőforrásigény: 7 személynap
-
-#### 9.3.2. Tesztelési dokumentum
-Felelősök: Korom Richárd, Köles Bálint
+#### 9.3.1. Backend és Frontend összekötése
+Felelősök:  Schneider Bence, Géczi Ákos
 Tartam: 3 nap
 Erőforrásigény: 3 személynap
 
-#### 9.3.3. Bemutató elkészítése és bemutatása
+#### 9.3.2. Bejelentkezés/Kijelentkezés megvalósítása
+Felelősök: Géczi Ákos
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.3. Új Ingatlanügynökök felvételének a megvalósítása
+Felelősök: Simon Péter
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.4. Új Ingatlanok felvételének a megvalósítása
+Felelősök: Hörömpő László
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.5. Hirdetések megvalósítása
+Felelősök: Schneider Bence
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.6. Adatbázis megvalósítása
+Felelősök: Korom Richárd, Simon Péter
+Tartam: 5 nap
+Erőforrásigény: 5 személynap
+
+#### 9.3.7. Ingatlanügynökök adatlapjainak a létrehozása
+Felelősök: Simon Péter
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.8.  Ingatlan adatlapjainak a létrehozása
+Felelősök: Schneider Bence
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.9.  Ingatlanok törlésének a megvalósítása
+Felelősök: Hörömpő László
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.10.  Időpontok foglalásának a megvalósítása
+Felelősök: Köles Bálint
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.11.  Weblap létrehozása
+Felelősök: Hörömpő László
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.12.  Ingatlanok közötti keresés megvalósítása
+Felelősök: Géczi Ákos
+Tartam: 2 nap
+Erőforrásigény: 2 személynap
+
+#### 9.3.13. Tesztelési dokumentum
+Felelősök:  Köles Bálint
+Tartam: 3 nap
+Erőforrásigény: 3 személynap
+
+#### 9.3.14. Bemutató elkészítése és bemutatása
 Felelősök: Schneider Bence, Géczi Ákos
 Tartam: 3 nap
 Erőforrásigény: 3 személynap
